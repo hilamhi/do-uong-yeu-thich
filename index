@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Top 10 Đồ Uống Yêu Thích</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Khám Phá – Tạp Chí Đồ Uống</h1>
+        <p>Trà sữa, Cà phê, Nước ép, Sinh tố, Trà trái cây và nhiều hơn nữa</p>
+        <hr>
+    </header>
+
+    <section>
+        <h2>Giới thiệu tổng quan</h2>
+        <p>
+            Đồ uống không chỉ để giải khát mà còn là niềm vui và một phần văn hóa trong cuộc sống hàng ngày.
+            Từ ly cà phê đậm đà buổi sáng, ly trà sữa ngọt ngào khi tụ tập bạn bè,
+            đến những cốc sinh tố mát lạnh trong ngày hè – mỗi loại đều mang một hương vị và câu chuyện riêng.
+        </p>
+        <blockquote>
+            “Đồ uống là ngôn ngữ của hương vị – kết nối con người qua từng ngụm nhỏ.”
+        </blockquote>
+    </section>
+
+    <section>
+        <h2>Top 10 Đồ Uống Yêu Thích</h2>
+        <p>Mỗi loại đồ uống dưới đây đều được yêu thích bởi hương vị và sự đặc biệt riêng:</p>
+
+        <div class="drink-list">
+            <div class="drink-item">
+                <h3>1. Trà sữa trân châu</h3>
+                <img src="https://www.huongnghiepaau.com/wp-content/uploads/2019/10/tra-sua-chocolate.jpg" alt="Trà sữa" />
+            </div>
+
+            <div class="drink-item">
+                <h3>2. Cà phê sữa đá</h3>
+                <img src="https://www.huongnghiepaau.com/wp-content/uploads/2017/11/ca-phe-sua-da.jpg" alt="Cà phê sữa đá" />
+            </div>
+
+            <div class="drink-item">
+                <h3>3. Nước ép cam</h3>
+                <img src="https://suckhoedoisong.qltns.mediacdn.vn/324455921873985536/2022/2/19/cach-lam-nuoc-cam-ep-ngon-va-thom-ket-hop-voi-le-va-gung-5-1645248090817401855254.jpg" alt="Nước cam" />
+            </div>
+
+            <div class="drink-item">
+                <h3>4. Sinh tố xoài</h3>
+                <img src="https://dayphache.edu.vn/wp-content/uploads/2016/02/cach-lam-sinh-to-xoai-sua-dac.jpg" alt="Sinh tố xoài" />
+            </div>
+
+            <div class="drink-item">
+                <h3>5. Trà đào cam sả</h3>
+                <img src="https://www.huongnghiepaau.com/wp-content/uploads/2017/07/tra-dao-cam-sa-ngot-ngao.jpg" alt="Trà đào cam sả" />
+            </div>
+
+            <div class="drink-item">
+                <h3>6. Matcha Latte</h3>
+                <img src="https://lypham.vn/wp-content/uploads/2025/02/luu-y-khi-pha-matcha-latte.jpg" alt="Matcha Latte" />
+            </div>
+
+            <div class="drink-item">
+                <h3>7. Nước dừa tươi</h3>
+                <img src="https://cdn11.dienmaycholon.vn/filewebdmclnew/public/userupload/files/Knms/meo-vat/nuoc-dua-tuoi-cung-cap-nhieu-nuoc-va-chat-dien-giai.jpg" alt="Nước dừa" />
+            </div>
+
+            <div class="drink-item">
+                <h3>8. Trà chanh</h3>
+                <img src="https://www.unileverfoodsolutions.com.vn/dam/global-ufs/mcos/phvn/vietnam/calcmenu/recipes/VN-recipes/other/energizing-lemon-tea/main-header.jpg" alt="Trà chanh" />
+            </div>
+
+            <div class="drink-item">
+                <h3>9. Soda bạc hà</h3>
+                <img src="https://www.bartender.edu.vn/wp-content/uploads/2020/10/soda-bac-ha.jpg" alt="Soda bạc hà" />
+            </div>
+
+            <div class="drink-item">
+                <h3>10. Cacao nóng</h3>
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqjDCyJ_5aNFffqeloXp-KytGjDeBfjuDdjQ&s" alt="Cacao nóng" />
+            </div>
+        </div>
+    </section>
+
+</body>
+
+</html>
